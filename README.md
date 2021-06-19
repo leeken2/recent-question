@@ -8,8 +8,9 @@
 
 ### 网络安全
 - 网络安全相关的要去复习，csrf xss ; 面试官问的就是 csrf 为什么用 token 就能解决问题了；
-- [前端安全系列（二）：如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
+- [前端安全系列（二）：如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html) 看完后，我才发现自己理解的csrf理解错了，此token非彼token，怪不得挂了。。。
 
 
 ### 了解 http 协议
 - 其实我不知道要了解啥；听我解释后，面试官说了什么长连接短链接的；有啥好处；
+
